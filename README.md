@@ -4,7 +4,6 @@
 
 ## Hi Everyone 👋,           
 #### I am an Android Developer with 4+ Years of experience who creates high-performing applications with organized architecture. As a professional mobile developer my goal is to turn project into a success and ensure a bug free app allowing clients to easily continue their business. Experienced in working with clients, business managers and technical teams for executing concurrent project.
-@@ -18,15 +18,15 @@
 
 - 🔭 I’m currently working on Real Estate App
 
