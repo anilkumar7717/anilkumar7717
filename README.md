@@ -1,7 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/AnilKumar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anilinclude/)
 [![Skype Badge](https://img.shields.io/badge/anilkumar7717-30302f?style=flat&logo=skype)](https://join.skype.com/invite/lABknWepuAeU)
-![](https://visitor-badge.glitch.me/badge?page_id=anilkumar7717) 
-![](https://visitor-badge.glitch.me/badge?page_id=anilkumar7717) 
 
 ## Hi Everyone 👋,           
 #### I am an Android Developer with 4+ Years of experience who creates high-performing applications with organized architecture. As a professional mobile developer my goal is to turn project into a success and ensure a bug free app allowing clients to easily continue their business. Experienced in working with clients, business managers and technical teams for executing concurrent project.
