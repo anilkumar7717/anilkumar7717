@@ -6,13 +6,3 @@
 
 - 🔭 I’m currently working on Real Estate App
 
-<a href="https://anilkumar7717.github.io">
-<a href="https://anilkumar7717.github.io">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=anilkumar7717&count_private=true" align="center"/>
-
-</a>
-
-<a href="https://anilkumar7717.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkumar7717&layout=compact" align="center"/>
-</a>
